@@ -1,7 +1,7 @@
 # LibraryAPI
 
 ## CRUD Web API для имитации библиотеки
-_.Net 7.0 + Entity Framework Core + PostgreSQL with Authentication via bearer token_
+_.NET 7.0 + Entity Framework Core + PostgreSQL with Authentication via bearer token_
 
 **Функционал Web API**
   - Получение списка всех книг;
