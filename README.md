@@ -1,6 +1,7 @@
 # LibraryAPI
 
 ## CRUD Web API для имитации библиотеки
+_.Net 7.0 + Entity Framework Core + PostgreSQL with Authentication via bearer token_
 
 **Функционал Web API**
   - Получение списка всех книг;
@@ -21,4 +22,5 @@
 
 > Вид API в Swagger:
 ![image](https://github.com/AnnaZalevskaya/LibraryAPI/assets/123122231/a0acac4d-f94f-4137-9bcc-733bd31fb3bf)
+![image](https://github.com/AnnaZalevskaya/LibraryAPI/assets/123122231/ed3a1148-3068-4d90-826a-1ad0845fc075)
 ![image](https://github.com/AnnaZalevskaya/LibraryAPI/assets/123122231/e2cc2e83-10fb-46b8-a04b-25bc0a30bb32)
